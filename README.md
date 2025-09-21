@@ -254,7 +254,6 @@ dwave-ocean-docker/
 ├── CONTRIBUTING.md         # Contribution guidelines
 ├── CHANGELOG.md            # Version history
 ├── .gitignore             # Git ignore patterns
-├── marketing_launch.sh     # Launch checklist
 └── BLOG_POST_TEMPLATE.md   # Marketing content template
 ```
 
