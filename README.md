@@ -1,7 +1,5 @@
 <div align="center">
 
-<div style="max-width: 800px; margin: 0 auto;">
-
 # D-Wave Ocean SDK Docker Environment
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/dwavesys/ocean-dev)](https://hub.docker.com/r/dwavesys/ocean-dev)
@@ -11,7 +9,7 @@
 
 > **Maintained by [Yabloko Labs](https://yablokolabs.com) — Building quantum-inspired SaaS solutions**
 
-![Yabloko Labs Logo](logo.png)
+<img src="logo.png" alt="Yabloko Labs Logo" width="200"/>
 
 A complete, production-ready Docker environment for experimenting with D-Wave quantum annealing using the Ocean SDK. Get up and running with quantum computing in minutes, not hours.
 
@@ -237,12 +235,6 @@ We welcome contributions! Whether it's:
 
 **[Open an issue](https://github.com/yablokolabs/dwave-ocean-docker/issues)** or submit a pull request.
 
-### 🏆 Recognition
-Contributors will be featured in our:
-- 📰 Company blog posts
-- 📢 Social media highlights
-- 🎆 Annual contributor awards
-
 </div>
 
 ## Project Structure
@@ -301,6 +293,3 @@ Happy quantum computing! 🚀
 ---
 
 <sub>🔖 <em>This repository is part of Yabloko Labs' commitment to open-source quantum computing tools. Star us if this helped your research!</em></sub>
-
-</div>
-</div>
