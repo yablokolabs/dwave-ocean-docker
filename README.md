@@ -1,3 +1,7 @@
+<div align="center">
+
+<div style="max-width: 800px; margin: 0 auto;">
+
 # D-Wave Ocean SDK Docker Environment
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/dwavesys/ocean-dev)](https://hub.docker.com/r/dwavesys/ocean-dev)
@@ -13,7 +17,11 @@ A complete, production-ready Docker environment for experimenting with D-Wave qu
 
 > **Note**: This project is not affiliated with D-Wave Systems Inc. It provides a community-maintained Docker environment for working with the open source D-Wave Ocean SDK.
 
+</div>
+
 ## 🚀 Why This Repository?
+
+<div align="left">
 
 - **Production-Ready**: Battle-tested Docker environment with all dependencies pre-configured
 - **Complete Examples**: From basic QUBO to complex TSP implementations
@@ -21,7 +29,11 @@ A complete, production-ready Docker environment for experimenting with D-Wave qu
 - **Educational Focus**: Step-by-step tutorials and interactive Jupyter notebooks
 - **Real Hardware Ready**: Easy migration from simulation to actual D-Wave systems
 
+</div>
+
 ## Quick Start
+
+<div align="left">
 
 ### 1. Run the Docker Environment
 
@@ -47,9 +59,15 @@ python tsp_example.py
 jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
 ```
 
+</div>
+
 ## What's Included
 
+<div align="left">
+
 ### Example Files
+
+<div align="left">
 
 - **`basic_examples.py`**: Fundamental D-Wave Ocean SDK examples including:
   - Basic QUBO problems
@@ -67,7 +85,11 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
   - Visualization examples
   - Interactive problem builders
 
+</div>
+
 ### Docker Image Features
+
+<div align="left">
 
 The `dwavesys/ocean-dev` Docker image includes:
 
@@ -78,7 +100,11 @@ The `dwavesys/ocean-dev` Docker image includes:
 - **Jupyter**: Interactive notebook environment
 - **Scientific Python stack**: NumPy, SciPy, Matplotlib, NetworkX
 
+</div>
+
 ## Problem Types Demonstrated
+
+<div align="left">
 
 ### 1. QUBO (Quadratic Unconstrained Binary Optimization)
 Basic optimization problems with binary variables.
@@ -95,7 +121,11 @@ Classic optimization problem for finding shortest tours.
 ### 5. Ising Models
 Spin glass problems from statistical physics.
 
+</div>
+
 ## Development Workflow
+
+<div align="left">
 
 ### For Quick Testing
 ```bash
@@ -118,7 +148,11 @@ Then access the notebook at `http://localhost:8888`
 2. Run the container to access them at `/workspace`
 3. Install additional packages if needed with `pip install`
 
+</div>
+
 ## D-Wave Hardware Access
+
+<div align="left">
 
 To use real D-Wave quantum hardware:
 
@@ -134,7 +168,11 @@ To use real D-Wave quantum hardware:
    sampler = EmbeddingComposite(DWaveSampler())
    ```
 
+</div>
+
 ## Troubleshooting
+
+<div align="left">
 
 ### Docker Issues
 ```bash
@@ -155,7 +193,11 @@ pip install package-name
 pip install --upgrade dwave-ocean-sdk
 ```
 
+</div>
+
 ## 🌐 About Yabloko Labs
+
+<div align="left">
 
 This repository is maintained by **[Yabloko Labs](https://yablokolabs.com)**, a cutting-edge quantum-AI company specializing in:
 
@@ -165,14 +207,22 @@ This repository is maintained by **[Yabloko Labs](https://yablokolabs.com)**, a 
 
 We're building the future of quantum-inspired SaaS solutions. [Learn more about our mission »](https://yablokolabs.com)
 
+</div>
+
 ## 📚 Learning Resources
+
+<div align="left">
 
 - [D-Wave Ocean Documentation](https://docs.ocean.dwavesys.com/)
 - [D-Wave Examples](https://github.com/dwave-examples)
 - [Quantum Annealing Tutorial](https://docs.dwavesys.com/docs/latest/c_gs_2.html)
 - [Ocean SDK GitHub](https://github.com/dwavesystems/dwave-ocean-sdk)
 
+</div>
+
 ## 🌟 Community & Contributing
+
+<div align="left">
 
 ### 💬 Join the Discussion
 - **Reddit**: [r/quantumcomputing](https://reddit.com/r/quantumcomputing)
@@ -193,7 +243,11 @@ Contributors will be featured in our:
 - 📢 Social media highlights
 - 🎆 Annual contributor awards
 
+</div>
+
 ## Project Structure
+
+<div align="left">
 
 ```
 dwave-ocean-docker/
@@ -212,7 +266,11 @@ dwave-ocean-docker/
 └── BLOG_POST_TEMPLATE.md   # Marketing content template
 ```
 
+</div>
+
 ## Next Steps
+
+<div align="left">
 
 1. **Experiment**: Modify the existing examples
 2. **Learn**: Work through the Jupyter notebook
@@ -222,9 +280,13 @@ dwave-ocean-docker/
 
 Happy quantum computing! 🚀
 
+</div>
+
 ---
 
 ## 📬 Get in Touch
+
+<div align="left">
 
 **Yabloko Labs** • Building quantum-inspired SaaS
 - 🌐 Website: [yablokolabs.com](https://yablokolabs.com)
@@ -234,6 +296,11 @@ Happy quantum computing! 🚀
 ### 🎯 Our Goals
 - 🌟 **Awesome Quantum Computing** community contributions
 
+</div>
+
 ---
 
 <sub>🔖 <em>This repository is part of Yabloko Labs' commitment to open-source quantum computing tools. Star us if this helped your research!</em></sub>
+
+</div>
+</div>
