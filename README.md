@@ -7,7 +7,7 @@
 
 > **Maintained by [Yabloko Labs](https://yablokolabs.com) — Building quantum-inspired SaaS solutions**
 
-![Yabloko Labs Logo](favicon.ico)
+![Yabloko Labs Logo](logo.png)
 
 A complete, production-ready Docker environment for experimenting with D-Wave quantum annealing using the Ocean SDK. Get up and running with quantum computing in minutes, not hours.
 
